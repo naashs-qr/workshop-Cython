@@ -35,6 +35,17 @@ Cython is a language that makes writing C extensions for the Python language as 
   - Check if installed with: `python3 --version`
 - [Cython](https://cython.org/#download)
   - Install with: `pip3 install cython`
+- [DevTools]()
+  - Install with:
+    - For apt (Ubuntu, Debien...):
+      `sudo apt-get install python-dev` #for pyhton2  
+      `sudo apt-get install python3-dev`
+    - For yum (CentOS, RHEL...):
+      `sudo yum install python-devel`  
+      `sudo yum install python3-devel`
+    - For dnf (Fedora):
+      `sudo dnf install python-devel`  
+      `sudo dnf install python3-devel`
 
 <br/><br/>
 
